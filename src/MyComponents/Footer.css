@@ -1,0 +1,8 @@
+.footer{
+    height : 10vh;
+    width : 100%;
+    position: relative;
+    background-color: rgb(53, 48, 48);
+    color : white;
+    margin-top : 80vh;
+}
